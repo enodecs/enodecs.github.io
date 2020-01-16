@@ -1,3 +1,3 @@
-# Makers All
+# Enode
 
-The website for the organization, Makers All.  For more info, see [makersall.org](makersall.org)
+The website for the organization, Enode.
