@@ -1,0 +1,12 @@
+# Logo CSS
+
+.logo_text {
+    font-family: "Gill Sans",sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.25em;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #9d180d
+}
