@@ -1,4 +1,4 @@
-title: Makers All 
+title: Enode Consulting Services
 author: Anders Schneiderman
 email: your-email@domain.com
 description:  Description of this site
@@ -7,5 +7,9 @@ description:  Description of this site
 navigation_links:
   - name: About
     link: 'about/'
-  - name: Blog		
-    link: 'blog/'
+  - name: Services		
+    link: 'services/'
+  - name: Contact		
+    link: 'contact/'    
+  # - name: Blog		
+  #   link: 'blog/'
