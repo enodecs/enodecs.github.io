@@ -31,10 +31,9 @@ We provide the following services:
 - We can also manage part or all of your tech transformation project for you.
 
 ### Writing
-We provide a variety of writing services, including:
-- White papers
-- FAQs, documentation, cheat sheets, and other technical writing
-- Policy Proposals
+- Documentation, tutorials, and other technical writing
+- Policy papers and other white papers
+
 
 <br/>
 
